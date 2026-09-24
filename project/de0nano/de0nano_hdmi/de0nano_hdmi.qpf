@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "17.1"
+DATE = "09:28:27  January 20, 2018"
+
+# Revisions
+
+PROJECT_REVISION = "de0nano_hdmi_top"
